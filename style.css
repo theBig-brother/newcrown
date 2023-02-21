@@ -1,0 +1,61 @@
+#myCanvas {
+    display: block;
+    border: 1px solid red;
+}
+
+.time {
+    width: 200px;
+    height: 100px;
+    /* background-color: pink; */
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;   
+    font-weight: bold;
+}
+
+.control {
+    height: 100px;
+    background-color: pink;
+    float: left;
+}
+
+.left {
+    font-size: 50px;
+    display: block;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.pause {
+    display: block;
+    width: 130px;
+    height: 100px;
+    float: left;
+    background-image: url('./run/knight-se-run1.png');
+    background-repeat: no-repeat;
+}
+
+.right {
+    font-size: 50px;
+    display: block;
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+
+.day {
+    display: block;
+    width: 200px;
+margin-top: 45px;
+    float: left;
+}
+
+.enter {
+    display: block;
+    width: 200px;
+    height: 100px;
+   background-color: skyblue;
+    float: left;
+}
